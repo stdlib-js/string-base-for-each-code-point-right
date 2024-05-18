@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-for-each-code-point-right",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Invoke a function for each Unicode code point in a string, iterating from right to left.",
   "license": "Apache-2.0",
   "author": {
